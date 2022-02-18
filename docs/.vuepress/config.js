@@ -33,6 +33,7 @@ module.exports = config({
   themeConfig: {
     logo: "/logo.png",
     hostname: "0.0.0.0",
+    base: "/labtest/",
 
     nav: [
       {
