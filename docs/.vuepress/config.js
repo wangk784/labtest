@@ -4,7 +4,7 @@ module.exports = config({
   title: "东北师范大学智能信息处理实验室",
   description: "实验室有计算机软件与理论、数据挖掘、人工智能、计算机视觉等方向。",
 
-  dest: "/docs/.vuepress/dist",
+  dest: "./docs/.vuepress/dist",
 
   head: [
     [
