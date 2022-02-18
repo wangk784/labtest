@@ -1,0 +1,16 @@
+{
+  "name": "newlab",
+  "version": "1.0.0",
+  "description": "new website for lab",
+  "license": "MIT",
+  "scripts": {
+    "build": "vuepress build src",
+    "clean-dev": "vuepress dev src --no-cache",
+    "dev": "vuepress dev src",
+    "eject-theme": "vuepress eject-hope src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "vuepress-theme-hope": "1.27.4"
+  }
+}
