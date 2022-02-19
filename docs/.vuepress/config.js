@@ -3,6 +3,7 @@ const { config } = require("vuepress-theme-hope");
 module.exports = config({
   title: "东北师范大学智能信息处理实验室",
   description: "实验室有计算机软件与理论、数据挖掘、人工智能、计算机视觉等方向。",
+  base: "/labtest/",
 
   dest: "./docs/.vuepress/dist",
 
@@ -33,7 +34,7 @@ module.exports = config({
   themeConfig: {
     logo: "/logo.png",
     hostname: "0.0.0.0",
-    base: "/labtest/",
+    
 
     nav: [
       {

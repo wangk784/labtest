@@ -10,7 +10,7 @@ contributor: false
 
 <br/>
 
-![lab](/assets/img/lab.jpg)
+![lab](/labtest/assets/img/lab.jpg)
 
 东北师范大学智能信息处理实验室隶属于东北师范大学信息科学与技术学院。实验室有xx名教师，xx名研究生，xx名本科生。研究方向包含计算机软件与理论、人工智能、自然语言处理、计算机视觉等。实验室位置是东北师范大学净月校区传媒东楼208室。
 

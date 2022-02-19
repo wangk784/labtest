@@ -8,7 +8,7 @@ contributor: false
 
 <div style="display: flex;">
   <div>
-  <img src="/assets/portrait/none.jpg" style="zoom:70%" align="left" />
+  <img src="/labtest/assets/portrait/none.jpg" style="zoom:70%" align="left" alt="wangyy"/>
   </div>
 
   <div style="margin-left:2rem;">
@@ -78,7 +78,7 @@ contributor: false
 
 ### **发表论文**
 
-[33] Zhou Y, Liu X, Hu S, Wang Y, Yin M. Combining Max-Min Ant System with Effective Local Search for Solving the Maximum Set k-Covering Problem. Knowledge-Based System, 2022, 239: 108000. (CCF C类，中科院1区，通信作者)[[PDF](/assets/wangyy/33.pdf)][[CODE](/assets/wangyy/test.zip)][[INSTANCES]()]
+[33] Zhou Y, Liu X, Hu S, Wang Y, Yin M. Combining Max-Min Ant System with Effective Local Search for Solving the Maximum Set k-Covering Problem. Knowledge-Based System, 2022, 239: 108000. (CCF C类，中科院1区，通信作者)[[PDF](/labtest/assets/wangyy/33.pdf)][[CODE](/labtest/assets/wangyy/test.zip)][[INSTANCES]()]
 
 [32] Chen J, Wang Y, Cai S, Yin M, Zhou Y, Wu J. NukCP: An Improved Local Search Algorithm for Maximum k-Club Problem. AAAI, 2022, accept. (CCF A类会议，通讯作者)
 
