@@ -34,7 +34,7 @@ module.exports = config({
   themeConfig: {
     logo: "/logo.png",
     hostname: "0.0.0.0",
-    
+
 
     nav: [
       {
@@ -53,6 +53,16 @@ module.exports = config({
         link: "/member",
       },
       {
+        text: "新闻",
+        icon: "news",
+        link: "/news",
+      },
+      {
+        text: "组会",
+        icon: "meeting",
+        link: "/meeting",
+      },
+      {
         text: "论文",
         icon: "paper",
         link: "/papers",
@@ -69,6 +79,8 @@ module.exports = config({
         "",
         "intro",
         "member",
+        "news",
+        "meeting",
         "papers",
         "other",
       ],

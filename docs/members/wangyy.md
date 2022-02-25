@@ -1,7 +1,7 @@
 ---
 title: 王艺源
 lang: zh-CN
-icon: config
+icon: staff
 contributor: false
 ---
 # 王艺源
