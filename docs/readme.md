@@ -4,7 +4,7 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.png
-heroText: 智能信息处理实验室
+heroText: 吉林省高等学校智能信息处理重点实验室
 tagline: null
 heroFullScreen: true
 bgImage: /assets/img/hero.jpg
@@ -28,5 +28,5 @@ action:
 
 
 copyrightText: false
-footer: Copyright © 东北师范大学智能信息处理实验室
+footer: Copyright © 东北师范大学 吉林省高等学校智能信息处理重点实验室
 ---

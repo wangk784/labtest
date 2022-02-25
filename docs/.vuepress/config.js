@@ -1,8 +1,8 @@
 const { config } = require("vuepress-theme-hope");
 
 module.exports = config({
-  title: "东北师范大学智能信息处理实验室",
-  description: "实验室有计算机软件与理论、数据挖掘、人工智能、计算机视觉等方向。",
+  title: "东北师范大学 吉林省高等学校智能信息处理重点实验室",
+  description: "研究方向有人工智能、算法设计与分析、优化求解、数据挖掘、深度学习、大数据分析、计算机视觉等。",
   base: "/labtest/",
 
   dest: "./docs/.vuepress/dist",
@@ -77,7 +77,7 @@ module.exports = config({
 
     footer: {
       display: true,
-      content: "东北师范大学智能信息处理实验室",
+      content: "东北师范大学 吉林省高等学校智能信息处理重点实验室",
     },
 
     copyright: {

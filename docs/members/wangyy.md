@@ -24,7 +24,7 @@ contributor: false
 
 ***
 
-### **基本情况**
+## **基本情况**
 
 王艺源，男，副教授，博士生导师，2017年于吉林大学计算机科学与技术学院获得工学博士学位。主要从事人工智能、算法设计及其应用、优化求解等方向研究。2020年获得吉林省青年人才托举计划。主持并参与多项国家自然基金，已发表学术论文30余篇，其中12篇计算机学会推荐A类论文。
 
@@ -36,7 +36,7 @@ contributor: false
 
 [NENU](http://ai.nenu.edu.cn/wangyy/index.html)
 
-### **教育经历**
+## **教育经历**
 
 2007.09-2011.06，吉林大学软件学院，软件工程，学士
 
@@ -46,7 +46,7 @@ contributor: false
 
 2015.10-2016.04，德国德累斯顿工业大学，访问学者
 
-### **工作经历**
+## **工作经历**
 
 2017.11-2019.11，东北师范大学信息科学与技术学院，师资博士后，导师：殷明浩
 
@@ -56,7 +56,7 @@ contributor: false
 
 2021.10-至今，东北师范大学信息科学与技术学院，博士生导师
 
-### **社会兼职**
+## **社会兼职**
 
 [1] 201901-至今，程序委员会委员（PC Member），IJCAI 2020-2022, AAAI 2020-2022； Senior PC， IJCAI2021
 
@@ -66,7 +66,7 @@ contributor: false
 
 [4] 202010-至今，中国人工智能学会智能服务专委会委员
 
-### **主持项目**
+## **主持项目**
 
 [1] 国家自然科学基金青年项目，“支配集问题的局部搜索算法研究”（61806050），2019/01-2021/12，25万
 
@@ -76,7 +76,7 @@ contributor: false
 
 [4] 吉林省科技厅自然科学基金自由探索一般项目，“大规模集合覆盖问题下关键求解技术研究”，2022/01-2024/12，10万
 
-### **发表论文**
+## **发表论文**
 
 [33] Zhou Y, Liu X, Hu S, Wang Y, Yin M. Combining Max-Min Ant System with Effective Local Search for Solving the Maximum Set k-Covering Problem. Knowledge-Based System, 2022, 239: 108000. (CCF C类，中科院1区，通信作者)[[PDF](/labtest/assets/wangyy/33.pdf)][[CODE](/labtest/assets/wangyy/test.zip)][[INSTANCES]()]
 
@@ -132,7 +132,7 @@ contributor: false
 
 [7] Wang Y, Ouyang D, Zhang L, et al. A novel local search for unicost set covering problem using hyperedge configuration checking and weight diversity[J]. Science China Information Sciences, 2017, 60(6): 062103. (CCF B类，中科院2区，第一作者)
 
-[6] Wang Y, Yin M, Ouyang D, et al. A novel local search algorithm with configuration checking and scoring mechanism for the set k-covering problem. International Transactions in Operational Research, 2017, 24(6): 1463-1485. (SSCI期刊，中科院3区，第一作者) 
+[6] Wang Y, Yin M, Ouyang D, et al. A novel local search algorithm with configuration checking and scoring mechanism for the set k-covering problem. International Transactions in Operational Research, 2017, 24(6): 1463-1485. (SSCI期刊，中科院3区，第一作者)
 
 [5] 王艺源, 欧阳丹彤, 张立明. 结合部件动态变化度求解最小碰集的 GRASP 算法[J]. 吉林大学学报: 工学版, 2017, 47(3): 930-936. （EI期刊，第一作者）
 
@@ -142,7 +142,7 @@ contributor: false
 
 [1] 王艺源, 欧阳丹彤, 张立明, 等. 利用 CSP 求解极小碰集的方法[J]. 计算机研究与发展, 2015, 52(3): 588-595. (CCF中文 A类，一级学报，第一作者）
 
-### **讲授课程**
+## **讲授课程**
 
 [1] 离散数学，本科生，2021-2022春季学期
 
