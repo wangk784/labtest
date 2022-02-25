@@ -29,6 +29,9 @@ module.exports = config({
     "/": {
       lang: "zh-CN",
     },
+    "/en/": {
+      lang: "en-US",
+    }
   },
 
   themeConfig: {
@@ -36,43 +39,43 @@ module.exports = config({
     hostname: "0.0.0.0",
 
 
-    nav: [
-      {
-        text: "主页",
-        link: "/",
-        icon: "home"
-      },
-      {
-        text: "简介",
-        icon: "intro",
-        link: "/intro",
-      },
-      {
-        text: "成员",
-        icon: "member",
-        link: "/member",
-      },
-      {
-        text: "新闻",
-        icon: "news",
-        link: "/news",
-      },
-      {
-        text: "组会",
-        icon: "meeting",
-        link: "/meeting",
-      },
-      {
-        text: "论文",
-        icon: "paper",
-        link: "/papers",
-      },
-      {
-        text: "其他",
-        icon: "other",
-        link: "/other",
-      },
-    ],
+    // nav: [
+    //   {
+    //     text: "主页",
+    //     link: "/",
+    //     icon: "home"
+    //   },
+    //   {
+    //     text: "简介",
+    //     icon: "intro",
+    //     link: "/intro",
+    //   },
+    //   {
+    //     text: "成员",
+    //     icon: "member",
+    //     link: "/member",
+    //   },
+    //   {
+    //     text: "新闻",
+    //     icon: "news",
+    //     link: "/news",
+    //   },
+    //   {
+    //     text: "组会",
+    //     icon: "meeting",
+    //     link: "/meeting",
+    //   },
+    //   {
+    //     text: "论文",
+    //     icon: "paper",
+    //     link: "/papers",
+    //   },
+    //   {
+    //     text: "其他",
+    //     icon: "other",
+    //     link: "/other",
+    //   },
+    // ],
 
     sidebar: {
       "/": [

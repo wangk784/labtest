@@ -8,7 +8,7 @@ tagline: null
 heroFullScreen: true
 bgImage: /assets/img/hero.jpg
 action:
-  - text: 开始
+  - text: 简介
     link: /intro
     type: primary
 
