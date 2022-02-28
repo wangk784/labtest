@@ -1,27 +1,27 @@
 ---
-title: 成员
-lang: zh-CN
+title: Members
+lang: en-US
 icon: member
 contributor: false
 ---
-# 成员
+# Members
 
-## 负责人
+## Head of Lab
 
-[殷明浩]()
+[Minghao Yin]()
 
-## 教师
+## Mentors
 
-[罗娜]() [王玉茹]() [王艺源](/members/wangyy.md) [周俊萍]() [朱铁英]() [赵晓薇]() [李睿智]() [李宏博]() [胡书丽]() [周雨鹏]() [周文博]() 等
+[LuoNa]() [YuruWang]() [YiyuanWang](/en/members/wangyy.md) [JunpingZhou]() [TieyingZhu]() [XiaoweiZhao]() [RuizhiLi]() [HongboLi]() [ShuliHu]() [YupengZhou]() [WenboZhou]() etc.
 
-## 博士生
+## PhDs
 
-吴军 徐欣 姜璐 赵宵飒 张烨 陈杰江 潘世维  
+[JunWu]() [XinXu]() [LuJiang]() [XiaosaZhao]() [YeZhang]() [JiejiangChen]() [ShiweiPan]()  
 
-## 硕士生
+## Masters
 
-慈重庆 樊培毅 高山 季嘉 解冰倩 梁嘉馨 刘帅卓 马艺明  宋可可 苏敬涵  孙佳豪 王一宾 吴亚玲 张传玉  张宇轩 赵璐  赵新萍 郑益群 周宏欣
+ChongqingCi PeiyiFan ShanGao JiaJi BingqianXie JiaxinLiang ShuaizhuoLiu YimingMa KekeSong JinghanSu JiahaoSun YibinWang YalingWu ChuanyuZhang YuxuanZhang LuZhao XinpingZhao YiqunZheng HongxinZhou
 
-周爽 张子琛 徐瑞琪 高艳琪 纪红杰 邹能 包晗 张洪 范闻天 张合兵 王齐贤 徐继涛 汉乡 朱丽雪 巫捷妤
+ShuangZhou ZichenZhang RuiqiXu YanqiGao HongjieJi NengZhou HanBao HongZhang WentianFan HebingZhang QixianWang JitaoXu XiangHan LixueZhu JieyuWu
 
-## 毕业生
+## Graduates

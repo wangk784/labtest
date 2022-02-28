@@ -13,24 +13,24 @@ action:
     type: primary
 
 features:
-  - title: 实验室介绍
-    details: Introduction
+  - title: 简介
+    details: Base information of the lab
     link: /intro
 
-  - title: 成员介绍
-    details: Members
+  - title: 成员
+    details: Staff composition and structure
     link: /member
 
   - title: 新闻
-    details: News
+    details: Recent developments of members
     link: /news
 
   - title: 组会
-    details: Meetings
+    details: Literature reading and sharing meetings
     link: /meeting
 
-  - title: 论文展示
-    details: Recent Publications
+  - title: 论文
+    details: Recent research interests and achievements
     link: /papers
 
   - title: 其他 

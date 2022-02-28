@@ -1,15 +1,17 @@
 ---
-title: 组会
-lang: zh-CN
+title: Meetings
+lang: en-US
 icon: meeting
 contributor: false
 ---
-# 组会
+# Meetings
 
-## 时间地点
+## Time & Place
 
-| 时间 | 地点 |
-| ---- | ---- |
-| **   | **   |
+| Time                 | Place                                                   |
+| -------------------- | ------------------------------------------------------- |
+| Wednesdays at 9:30am | College of Information Science and Technology, Room 324 |
 
-## 会议记录
+## Records of Meetings
+
+To be Continue...

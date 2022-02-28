@@ -1,19 +1,21 @@
 ---
-title: 简介
-lang: zh-CN
+title: Intro
+lang: en-US
 icon: intro
 contributor: false
 ---
-# 简介
+# Intro
 
-## 基本信息
+## Base Information
 
 <br/>
 
 ![lab](/labtest/assets/img/lab.jpg)
 
-吉林省高等学校智能信息处理重点实验室，现有专任教师13人，其中教授1人，博士生导师4人，副教授6人。在INFORM COMPUT、INS、PATTERN RECOGN、JAIR、STOC、FOCS、IJCAI, AAAI、CP等期刊和会议发表论文200余篇。其中在CCF A类人工智能SCI期刊和CCF A类人工智能和计算机理论会议上发表20余篇文章。
+The Key Laboratory of Intelligent Information Processing in Higher Education of Jilin Province has 13 full-time faculty members, including one professor, four doctoral supervisors and six associate professors. We have published more than 200 papers in journals and conferences such as INFORM COMPUT, INS, PATTERN RECOGN, JAIR, STOC, FOCS, IJCAI, AAAI, CP and so on. Among them, more than 20 articles have been published in CCF A SCI journal of artificial Intelligence and CCF A Conference on Artificial Intelligence and Computer Theory.
 
-研究方向有人工智能、算法设计与分析、优化求解、数据挖掘、深度学习、大数据分析、计算机视觉等。
+The research interests of the lab members include artificial intelligence, algorithm design and analysis, optimization solving, data mining, deep learning, big data analysis, computer vision, etc.
 
-负责人：殷明浩老师
+## Head of Lab
+
+[Minghao Yin](/members/en/Yinmh.md)

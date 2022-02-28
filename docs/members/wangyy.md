@@ -18,7 +18,7 @@ contributor: false
   <p>研究方向：人工智能、算法设计及其应用</p>
   <p>办公电话：</p>
   <p>办公地点：信息科学与技术学院427</p>
-  <p>电子邮件：wangyy912@nenu.edu.cn</p>
+  <p>电子邮件: <a href="mailto:wangyy912@nenu.edu.cn">wangyy912@nenu.edu.cn</a></p>
   </div>
 </div>
 

@@ -1,8 +1,8 @@
 ---
-title: 新闻
-lang: zh-CN
+title: News
+lang: en-US
 icon: news
 contributor: false
 ---
 
-这里是新闻，未完待续。。。
+To be continue...

@@ -1,11 +1,11 @@
 ---
-title: 论文
-lang: zh-CN
+title: Publications
+lang: en-US
 icon: paper
 contributor: false
 ---
 
-# 论文
+# Publications
 
 1. Wang Y, Li C, Sun H, Chen J, Yin M. MLQCC: an improved local search algorithm for the set k‐covering problem[J]. International Transactions in Operational Research, 2019. [pdf]() [code]()
 

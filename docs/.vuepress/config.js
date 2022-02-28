@@ -31,51 +31,14 @@ module.exports = config({
     },
     "/en/": {
       lang: "en-US",
+      title: "Key Laboratory of Intelligent Information Processing of Northeast Normal University",
+      description: "The research interests of the lab members include artificial intelligence, algorithm design and analysis, optimization solving, data mining, deep learning, big data analysis, computer vision, etc."
     }
   },
 
   themeConfig: {
     logo: "/logo.png",
     hostname: "0.0.0.0",
-
-
-    // nav: [
-    //   {
-    //     text: "主页",
-    //     link: "/",
-    //     icon: "home"
-    //   },
-    //   {
-    //     text: "简介",
-    //     icon: "intro",
-    //     link: "/intro",
-    //   },
-    //   {
-    //     text: "成员",
-    //     icon: "member",
-    //     link: "/member",
-    //   },
-    //   {
-    //     text: "新闻",
-    //     icon: "news",
-    //     link: "/news",
-    //   },
-    //   {
-    //     text: "组会",
-    //     icon: "meeting",
-    //     link: "/meeting",
-    //   },
-    //   {
-    //     text: "论文",
-    //     icon: "paper",
-    //     link: "/papers",
-    //   },
-    //   {
-    //     text: "其他",
-    //     icon: "other",
-    //     link: "/other",
-    //   },
-    // ],
 
     sidebar: {
       "/": [
@@ -87,6 +50,22 @@ module.exports = config({
         "papers",
         "other",
       ],
+    },
+
+    locales: {
+      "/en/": {
+        sidebar: {
+          "/en/": [
+            "",
+            "intro",
+            "member",
+            "news",
+            "meeting",
+            "papers",
+            "other",
+          ],
+        },
+      },
     },
 
 
