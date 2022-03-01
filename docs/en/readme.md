@@ -9,33 +9,33 @@ heroFullScreen: true
 bgImage: /assets/img/hero.jpg
 action:
   - text: Start
-    link: /en/intro
+    link: /en/intro/
     type: primary
 
 features:
   - title: Introduction
     details: Base information of the lab
-    link: /en/intro
+    link: /en/intro/
 
   - title: Members
     details: Staff composition and structure
-    link: /en/member
+    link: /en/member/
 
   - title: News
     details: Recent developments of members
-    link: /en/news
+    link: /en/news/
 
   - title: Meetings
     details: Literature reading and sharing meetings
-    link: /en/meeting
+    link: /en/meeting/
 
   - title: Publications
     details: Recent research interests and achievements
-    link: /en/papers
+    link: /en/papers/
 
   - title: Other 
     details: Other informations
-    link: /en/other
+    link: /en/other/
 
 copyrightText: false
 footer: Copyright © 东北师范大学 吉林省高等学校智能信息处理重点实验室
