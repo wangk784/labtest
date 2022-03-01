@@ -12,7 +12,7 @@ contributor: false
 
 ## Teachers
 
-[Luo Na](), [Yuru Wang](), [Yiyuan Wang](/en/members/wangyy.md), [Junping Zhou](), [Tieying Zhu](), [Xiaowei Zhao](), [Ruizhi Li](), [Hongbo Li](), [Shuli Hu](), [Yupeng Zhou](), [Wenbo Zhou](), etc.
+[Luo Na](), [Yuru Wang](), [Yiyuan Wang](/en/members/wangyy/), [Junping Zhou](), [Tieying Zhu](), [Xiaowei Zhao](), [Ruizhi Li](), [Hongbo Li](), [Shuli Hu](), [Yupeng Zhou](), [Wenbo Zhou](), etc.
 
 ## PhDs
 
