@@ -31,8 +31,8 @@ module.exports = config({
     },
     "/en/": {
       lang: "en-US",
-      title: "Key Laboratory of Intelligent Information Processing of Northeast Normal University",
-      description: "The research interests of the lab members include artificial intelligence, algorithm design and analysis, optimization solving, data mining, deep learning, big data analysis, computer vision, etc."
+      title: "Key Laboratory of Intelligent Information Processing of  High Education of Jilin Province, Northeast Normal University",
+      description: "The research interests include artificial intelligence, algorithm design and analysis, optimization solving, data mining, deep learning, big data analysis, computer vision, etc."
     }
   },
 
@@ -99,7 +99,7 @@ module.exports = config({
         ],
       },
     },
-
+    blog: false,
     pwa: false,
     feed: false,
     comment: false,

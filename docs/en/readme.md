@@ -3,7 +3,7 @@ home: true
 icon: home
 title: Home
 heroImage: /logo.png
-heroText: Key Laboratory of Intelligent Information Processing for Higher Education in Jilin Province
+heroText: Key Laboratory of Intelligent Information Processing of  High Education of Jilin Province, Northeast Normal University
 tagline: null
 heroFullScreen: true
 bgImage: /assets/img/hero.jpg

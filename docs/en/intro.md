@@ -12,9 +12,9 @@ contributor: false
 
 ![lab](/labtest/assets/img/lab.jpg)
 
-The Key Laboratory of Intelligent Information Processing in Higher Education of Jilin Province has 13 full-time faculty members, including one professor, four doctoral supervisors and six associate professors. We have published more than 200 papers in journals and conferences such as INFORM COMPUT, INS, PATTERN RECOGN, JAIR, STOC, FOCS, IJCAI, AAAI, CP and so on. Among them, more than 20 articles have been published in CCF A SCI journal of artificial Intelligence and CCF A Conference on Artificial Intelligence and Computer Theory.
+There are 13 full-time faculty members, including one professor and six associate professors. We have published more than 200 papers in journals and conferences such as INFORM COMPUT, INS, PATTERN RECOGN, JAIR, STOC, FOCS, IJCAI, AAAI, CP and so on. Among them, more than 20 articles have been published in CCF A SCI journal of artificial Intelligence and CCF A Conference on Artificial Intelligence and Computer Theory.
 
-The research interests of the lab members include artificial intelligence, algorithm design and analysis, optimization solving, data mining, deep learning, big data analysis, computer vision, etc.
+The research interests include artificial intelligence, algorithm design and analysis, optimization solving, data mining, deep learning, big data analysis, computer vision, etc. 
 
 ## Head of Lab
 
